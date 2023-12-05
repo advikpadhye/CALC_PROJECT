@@ -8,3 +8,5 @@ yum install -y docker
 systemctl status docker
 systemctl status git
 
+echo "This is the my fresh scrift file"
+
